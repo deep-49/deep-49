@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepika Rai</h1>
 <h3 align="center">"Frontend wizard by trade, BDA by hustle, crafting interfaces and opportunities alike!"</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deep-49&label=Profile%20views&color=0e75b6&style=flat" alt="deep-49" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
