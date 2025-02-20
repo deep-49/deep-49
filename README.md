@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **deepikabijai49@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LYaZZSkqcHQgGrHjBdbWtY9OcGJzaHKV/view?usp=drivesdk](https://drive.google.com/file/d/1LYaZZSkqcHQgGrHjBdbWtY9OcGJzaHKV/view?usp=drivesdk)
+- 📄 Know about my experiences[(https://drive.google.com/file/d/1LYaZZSkqcHQgGrHjBdbWtY9OcGJzaHKV/view?usp=drivesdk)](https://drive.google.com/file/d/1U96GtpOe6xKWgcy2OZTEAGPEP14KgIh8/view?usp=sharing)
 
 - ⚡ Fun fact  Can debug a frontend bug and negotiate a business deal, all before finishing a cup of coffee!
 
